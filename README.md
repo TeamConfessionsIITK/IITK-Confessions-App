@@ -13,7 +13,7 @@ We, the team behind the existence of this platform, imagine a place where everyo
 <br>
 Look at the video below to understand most of the app 🙂
 <br>
-[video]
+[![IITK-Confessions-App](https://img.youtube.com/vi/2izlP_4mfSo/0.jpg)](https://www.youtube.com/watch?v=2izlP_4mfSo)
 <br>
 
 ## What you can do with this app
