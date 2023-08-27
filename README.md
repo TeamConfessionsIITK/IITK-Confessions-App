@@ -12,11 +12,11 @@ The primary reason for open-sourcing the code is to build trust among the campus
 We, the team behind the existence of this platform, imagine a place where everyone can express themselves freely without any fear of reprimand/disapproval/rejection. Yes, I am talking about Confessions. Think of it like entering an arena where everybody is blindfolded but are free to say whatever they want. The platform is the digitized version of this arena. You might ask we already have this kind of platform enabled since a long time in our campus. But they are very limited to what actually can be done.
 
 ## What you can do with this app
-+ Confess to specific individuals without disclosing your identity. They will be notified if they have this app and you will be notified if they have seen your confession. [video timestamp] <br>
-+ They can’t just see but can chat with you while you are anonymous (anonymous chat). Your identity won’t be disclosed (unless you mention your name in the chat 🙂). [video timestamp] <br>
-+ Your identity is encrypted using a prevalently-used RSA encryption mechanism, which means not even admins/backend handlers can know about you. (Go to the ‘Encryption Mechanism’ section for high-level description) <br>
-+ Ask a public poll along with confession. Do you have a question and longing for a public opinion? Now you can do that too! [video timestamp] <br>
-+ Give your opinion anonymously on a confession. Come on, I think you can agree that most people who read confession won’t comment on it due to fear of judgement, as their identity will be revealed. You don’t have to worry about this with this platform as your comment will be encrypted (even backend handlers wont be able to decrypt, unless you reveal your private key that is securely stored only in your mobile 🙂). [video timestamp] <br>
++ **Confess to specific individuals without disclosing your identity**. They will be notified if they have this app and you will be notified if they have seen your confession. [video timestamp] <br>
++ **They can’t just see but can chat with you while you are anonymous (anonymous chat)**. Your identity won’t be disclosed (unless you mention your name in the chat 🙂). [video timestamp] <br>
++ **Your identity is encrypted using a prevalently-used RSA encryption mechanism**, which means not even admins/backend handlers can know about you. (Go to the ‘Encryption Mechanism’ section for high-level description) <br>
++ **Ask a public poll along with confession**. Do you have a question and longing for a public opinion? Now you can do that too! [video timestamp] <br>
++ **Give your opinion on a confession anonymously**. Come on, I think you can agree that most people who read confession won’t comment on it due to fear of judgement, as their identity will be revealed. You don’t have to worry about this with this platform as your comment will be encrypted (even backend handlers wont be able to decrypt, unless you reveal your private key that is securely stored only in your mobile 🙂). [video timestamp] <br>
 + Other features: Rankings, upvotes/downvotes, reactions, sharing, etc.
 
 ## Encryption & Security
