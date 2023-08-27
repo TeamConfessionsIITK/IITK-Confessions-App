@@ -15,7 +15,6 @@ Look at the video below to understand most of the app 🙂
 <br>
 [video]
 <br>
-<br>
 
 ## What you can do with this app
 + **Confess to specific individuals without disclosing your identity**. They will be notified if they have this app and you will be notified if they have seen your confession. [video timestamp] <br>
