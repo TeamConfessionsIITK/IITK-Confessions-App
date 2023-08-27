@@ -16,7 +16,7 @@ We, the team behind the existence of this platform, imagine a place where everyo
 + They can’t just see but can chat with you while you are anonymous (anonymous chat). Your identity won’t be disclosed (unless you mention your name in the chat [emoji]). [video timestamp] <br>
 + Your identity is encrypted using a prevalently-used RSA encryption mechanism, which means not even admins/backend handlers can know about you. (Go to the ‘Encryption Mechanism’ section for high-level description) <br>
 + Ask a public poll along with confession. Do you have a question and longing for a public opinion? Now you can do that too! [video timestamp] <br>
-+ Give your opinion anonymously on a confession. Come on, I think you can agree that most people who read confession won’t comment on it due to fear of judgement, as their identity will be revealed. You don’t have to worry about this with this platform as your comment will be encrypted (even backend handlers wont be able to decrypt, unless you reveal your private key that is securely stored only in your mobile [smiling emoji]). [video timestamp] <br>
++ Give your opinion anonymously on a confession. Come on, I think you can agree that most people who read confession won’t comment on it due to fear of judgement, as their identity will be revealed. You don’t have to worry about this with this platform as your comment will be encrypted (even backend handlers wont be able to decrypt, unless you reveal your private key that is securely stored only in your mobile 🙂). [video timestamp] <br>
 + Other features: Rankings, upvotes/downvotes, reactions, sharing, etc.
 
 ## Encryption & Security
@@ -26,8 +26,8 @@ We are using RSA encryption mechanism. It is not necessary to get into the intri
 [video] 
 <br>
 <br>
-If it still seems unconvincing, you are highly encouraged to go through the open-sourced code.
-Anonymous chats (both messages and user details) are also encrypted using the same RSA mechanism but this time directly with the user’s private keys as only 2 parties are involved.
+If it still seems unconvincing, you are highly encouraged to go through the open-sourced code. <br>
+**Anonymous chats** (both messages and user details) are also encrypted using the same RSA mechanism but this time directly with the user’s private keys as only 2 parties are involved.
 
 
 ## Admin Privileges
