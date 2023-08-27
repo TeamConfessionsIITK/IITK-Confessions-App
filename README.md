@@ -1,4 +1,4 @@
-# Campus Confessions App
+# Campus Confessions App - IITK
 
 ## Overview
 Did you know recently there exists a platform, built exclusively for the campus student community, where you can express yourself without revealing your identity at all! If not, you should definitely check out this app in the Playstore: [IITK Confessions](https://play.google.com/store/apps/details?id=com.gamingentertainment.iitkconfessions).
