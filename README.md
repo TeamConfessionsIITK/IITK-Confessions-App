@@ -9,7 +9,13 @@ This platform is a BIG IMPROVEMENT to the already existing platforms that enable
 The primary reason for open-sourcing the code is to build trust among the campus student community. We know nobody is gonna believe what we are about to say unless we show them what we did and explain it ourself. If you are really worried about your privacy and to use this app, read the following content. Everything is well organized and easy to skip through different sections!
 
 ## Purpose of this platform
-We, the team behind the existence of this platform, imagine a place where everyone can express themselves freely without any fear of reprimand/disapproval/rejection. Yes, I am talking about Confessions. Think of it like entering an arena where everybody is blindfolded but are free to say whatever they want. The platform is the digitized version of this arena. You might ask we already have this kind of platform enabled since a long time in our campus. But they are very limited to what actually can be done.
+We, the team behind the existence of this platform, imagine a place where everyone can express themselves freely without any fear of reprimand/disapproval/rejection. Yes, I am talking about Confessions. Think of it like entering an arena where everybody is blindfolded but are free to say whatever they want. The platform is the digitized version of this arena. You might ask we already have this kind of platform enabled since a long time in our campus. But they are very limited to what actually can be done. <br>
+<br>
+Look at the video below to understand most of the app 🙂
+<br>
+[video]
+<br>
+<br>
 
 ## What you can do with this app
 + **Confess to specific individuals without disclosing your identity**. They will be notified if they have this app and you will be notified if they have seen your confession. [video timestamp] <br>
