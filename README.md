@@ -28,7 +28,7 @@ Look at the video below to understand most of the app 🙂
 This is the most important part of this app and essential for user anonymity. I know many will be concerned about this. So, I will try to give a lucid explanation and demystify this part to my best. <br>
 We are using RSA encryption mechanism. It is not necessary to get into the intricate details for understanding its mechanism. It’s a widely used algorithm and provides more than sufficient security against user privacy breach for this task. Basically, when you write a confession, a **random shared key** will be generated. Your details (userID) and specific individual details (their emails) will be encrypted using this shared key. Then this shared key is again encrypted using yours (confessor) and specific individual’s public keys and stored as a list in the backend. This list of `confessionSharedKeys` can be decrypted only using the respective user private-keys that will be only stored in corresponding mobile phones implying that not even admins/backend-handlers will be able to decrypt. If any of the shared keys cannot be decrypted that means confessor’s UID and specific individual’s emails cannot be decrypted. When a specific individual opens your confession, a loop runs through this list and if his private key is able to decrypt any of the confession-shared-keys in the list, that means the confession is for him and it will be displayed correspondingly. A video snippet is also added below for further evidence 👇 <br> 
 <br>
-[video] 
+https://github.com/TeamConfessionsIITK/IITK-Confessions-App/assets/143284021/391c967a-eef4-409c-8d0d-7cff65b7eaf4
 <br>
 <br>
 If it still seems unconvincing, you are highly encouraged to go through the open-sourced code. <br>
